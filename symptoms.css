@@ -1,0 +1,45 @@
+.major {
+    width: 300px;
+    height: 200px;
+    background-color: teal;
+    margin: auto;
+    margin-left: 40px;
+    justify-content: center;
+    align-content: center;
+    margin-top: 50px;
+    padding: 50px;
+    color: white;
+    border-radius: 0% 100% 100% 0%;
+}
+
+.less {
+    width: 300px;
+    height: 200px;
+    background-color: red;
+    margin: auto;
+    margin-right: 40px;
+    justify-content: center;
+    align-content: center;
+    margin-top: 50px;
+    color: white;
+    padding: 50px;
+    border-radius: 100% 0% 0% 100%;
+}
+
+.serious {
+    width: 300px;
+    height: 200px;
+    background-color: grey;
+    margin: auto;
+    margin-left: 40px;
+    justify-content: center;
+    align-content: center;
+    margin-top: 50px;
+    color: white;
+    padding: 50px;
+    border-radius: 0% 100% 100% 0%;
+}
+
+div.main ul li {
+    display: none;
+}
