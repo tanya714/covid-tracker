@@ -6,7 +6,10 @@ $(document).ready(function() {
         }, 5000, 'linear', function() {
             $(".center").animate({
                 marginLeft: '-200px',
-            }, -10000, yo)
+            }, -10000, yo);
+            $(".center").animate({
+                opacity: '100%'
+            })
         });
     }
     yo()
