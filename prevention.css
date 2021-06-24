@@ -1,0 +1,86 @@
+.card-wrapper{
+    display: flex;
+    display: grid;
+    justify-content: center;
+    grid-template-columns: repeat(2, 1fr);
+    grid-column-gap: 8rem;
+    grid-row-gap: 8rem;
+    margin: 5rem;
+    margin-left: 15rem;
+    margin-right: 15rem;
+}
+
+.card{
+    padding: 2rem;
+    color: black;
+    text-align: center;
+    border-radius: 3rem;
+}
+
+.card:hover{
+    transition: all 1s ease;
+    color: wheat;
+}
+
+.card span { 
+    display:inline-block; 
+    animation: shake 1s ease-in-out infinite; 
+}
+
+    @keyframes shake {
+        0% { 
+        transform: none; 
+        }
+        50%{ 
+        transform:translateY(-2px); 
+        }
+        100%{ 
+        transform:translateY(2px); 
+        }
+    }
+
+
+.card:hover span { 
+  animation: bounce 3s;
+}
+
+    @keyframes bounce {
+        0% { 
+            transform:translate(0); 
+        }
+        25%{ 
+            transform:rotateX(40deg) translateY(4px); 
+        }
+        50%{ 
+            transform:translateY(-20px) scale(1.5);  
+        }
+    }
+
+.c1 span{ animation-delay:.10s; }
+.c2 span{ animation-delay:.20s; }
+.c3 span{ animation-delay:.30s; }
+.c4 span{ animation-delay:.40s; }
+.c5 span{ animation-delay:.50s; }
+.c6 span{ animation-delay:.60s; }
+.c7 span{ animation-delay:.70s; }
+.c8 span{ animation-delay:.80s; }
+
+.c1 span { color:#FFFD82; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c2 span { color:#00C2D1; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c3 span { color:#F6AF65; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c4 span { color:#ED33B9; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c5 span { color:#2CA58D; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c6 span { color:#; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c7 span { color:#; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c8 span { color:#; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+
+.c1 {
+    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./icons8-multicultural-people-50.png);
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: 1s ease;
+}
