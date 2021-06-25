@@ -1,13 +1,12 @@
 .card-wrapper{
-    display: flex;
     display: grid;
     justify-content: center;
     grid-template-columns: repeat(2, 1fr);
     grid-column-gap: 8rem;
     grid-row-gap: 8rem;
     margin: 5rem;
-    margin-left: 15rem;
-    margin-right: 15rem;
+    margin-left: 10rem;
+    margin-right: 10rem;
 }
 
 .card{
@@ -15,6 +14,14 @@
     color: black;
     text-align: center;
     border-radius: 3rem;
+    font-size: 2rem;
+    width: 100%;
+    height: 100%;
+    background-position: center;
+    background-size: cover;
+    box-sizing: border-box;
+    text-decoration: none;
+    transition: 1s ease;
 }
 
 .card:hover{
@@ -70,17 +77,24 @@
 .c3 span { color:#F6AF65; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
 .c4 span { color:#ED33B9; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
 .c5 span { color:#2CA58D; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
-.c6 span { color:#; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
-.c7 span { color:#; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
-.c8 span { color:#; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c6 span { color:#8a59c9; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c7 span { color:#a5672c; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
+.c8 span { color:#2c6fa5; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
 
-.c1 {
-    background-image: linear-gradient(rgba(0, 0, 0, 0.4), rgba(0, 0, 0, 0.4)), url(./icons8-multicultural-people-50.png);
-    width: 100%;
-    height: 100%;
-    background-position: center;
-    background-size: cover;
-    box-sizing: border-box;
-    text-decoration: none;
-    transition: 1s ease;
-}
+.c1{ background: black; border: 0.2rem #FFFD82 solid; }
+.c2{ background: black; border: 0.2rem #00C2D1 solid; }
+.c3{ background: black; border: 0.2rem #F6AF65 solid; }
+.c4{ background: black; border: 0.2rem #ED33B9 solid; }
+.c5{ background: black; border: 0.2rem #2CA58D solid; }
+.c6{ background: black; border: 0.2rem #8a59c9 solid; }
+.c7{ background: black; border: 0.2rem #a5672c solid; }
+.c8{ background: black; border: 0.2rem #2c6fa5 solid; }
+
+.c1:hover{ background: black; }
+.c2:hover{ background: black; }
+.c3:hover{ background: black; }
+.c4:hover{ background: black; }
+.c5:hover{ background: black; }
+.c6:hover{ background: black; }
+.c7:hover{ background: black; }
+.c8:hover{ background: black; }
