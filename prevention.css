@@ -81,20 +81,20 @@
 .c7 span { color:#a5672c; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
 .c8 span { color:#2c6fa5; text-shadow:1px 1px grey, 3px 3px black, 4px 4px grey;}
 
-.c1{ background: black; border: 0.2rem #FFFD82 solid; }
-.c2{ background: black; border: 0.2rem #00C2D1 solid; }
-.c3{ background: black; border: 0.2rem #F6AF65 solid; }
-.c4{ background: black; border: 0.2rem #ED33B9 solid; }
-.c5{ background: black; border: 0.2rem #2CA58D solid; }
-.c6{ background: black; border: 0.2rem #8a59c9 solid; }
-.c7{ background: black; border: 0.2rem #a5672c solid; }
-.c8{ background: black; border: 0.2rem #2c6fa5 solid; }
+.c1{ background: grey; border: 0.2rem #FFFD82 solid; }
+.c2{ background: grey; border: 0.2rem #00C2D1 solid; }
+.c3{ background: grey; border: 0.2rem #F6AF65 solid; }
+.c4{ background: grey; border: 0.2rem #ED33B9 solid; }
+.c5{ background: grey; border: 0.2rem #2CA58D solid; }
+.c6{ background: grey; border: 0.2rem #8a59c9 solid; }
+.c7{ background: grey; border: 0.2rem #a5672c solid; }
+.c8{ background: grey; border: 0.2rem #2c6fa5 solid; }
 
-.c1:hover{ background: black; }
-.c2:hover{ background: black; }
-.c3:hover{ background: black; }
-.c4:hover{ background: black; }
-.c5:hover{ background: black; }
-.c6:hover{ background: black; }
-.c7:hover{ background: black; }
-.c8:hover{ background: black; }
+.c1:hover{ background: grey;}
+.c2:hover{ background: grey; }
+.c3:hover{ background: grey; }
+.c4:hover{ background: grey; }
+.c5:hover{ background: grey; }
+.c6:hover{ background: grey; }
+.c7:hover{ background: grey; }
+.c8:hover{ background: grey; }
