@@ -6,7 +6,7 @@
         "email": "2020kucp1051@iiitkota.ac.in",
         "phone": " ",
         "website": "",
-        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development, and build my own indicator for stocks prediction.",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Keen interest in Web Development. Hence exploring the field as a beginner.",
         "location": {
             "address": "Ghaziabad",
             "postalCode": "201001",
