@@ -1,0 +1,91 @@
+{
+    "basics": {
+        "name": "Tanya Rawal",
+        "label": "Student",
+        "picture": "",
+        "email": "2020kucp1051@iiitkota.ac.in",
+        "phone": " ",
+        "website": "",
+        "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Building awesome WebApp. I have enthusiasm in Full Stack development, and build my own indicator for stocks prediction.",
+        "location": {
+            "address": "Ghaziabad",
+            "postalCode": "201001",
+            "city": "Ghaziabad",
+            "countryCode": " India",
+            "region": "Uttar Pradesh"
+        },
+        "profiles": [
+            {
+                "network": "Twitter",
+                "username": "TanyaRawal5",
+                "url": "https://mobile.twitter.com/TanyaRawal5"
+            },
+            {
+                "network": "Github",
+                "username": "tanya714",
+                "url": "https://github.com/tanya714"
+            },
+            {
+                "network": "linkedin",
+                "username": "Tanya Rawal",
+                "url": "https://www.linkedin.com/in/tanya-rawal-9bb808205/"
+            },
+            {
+                "network": "Instagram",
+                "username": "x.tanya.r",
+                "url": "https://www.instagram.com/x.tanya.r/"
+            }
+        ]
+    },
+    "work": [],
+    "volunteer": [],
+    "education": [
+        {
+            "institution": "Indian Institute of Information Technology,Kota",
+            "area": "Engineering",
+            "studyType": "Bachelor (hons)",
+            "gpa": "8.45",
+            "courses": [
+                "Computer Science & Engineering"
+            ]
+        }
+    ],
+    "awards": [],
+    "publications": [],
+    "skills": [
+        {
+            "name": "Front-End Development",
+            "level": "Beginner",
+            "keywords": [
+                "HTML",
+                "CSS",
+                "jquery",
+                "C",
+            ]
+        }
+    ],
+    "languages": [
+        {
+            "language": "English",
+            "fluency": "Native speaker"
+        }
+    ],
+    "interests": [
+        {
+            "name": "Dancing",
+            "keywords": [
+                "Western"
+            ]
+        },
+        {
+            "name": "Sports",
+            "keywords": [
+                "Basketball",
+                "Badminton",
+                "Shooting"
+            ]
+        }
+    ],
+    "references": []
+}
+{"mode":"full","isActive":false}
