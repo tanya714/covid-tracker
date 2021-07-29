@@ -37,8 +37,6 @@
             }
         ]
     },
-    "work": [],
-    "volunteer": [],
     "education": [
         {
             "institution": "Indian Institute of Information Technology,Kota",
@@ -50,17 +48,14 @@
             ]
         }
     ],
-    "awards": [],
-    "publications": [],
     "skills": [
         {
-            "name": "Front-End Development",
             "level": "Beginner",
             "keywords": [
                 "HTML",
                 "CSS",
                 "jquery",
-                "C",
+                "C/C++",
             ]
         }
     ],
