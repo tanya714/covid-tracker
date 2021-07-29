@@ -3,7 +3,7 @@
         "name": "Tanya Rawal",
         "label": "Student",
         "picture": "",
-        "email": "2020kucp1051@iiitkota.ac.in",
+        "email": "2020KUCP1051@IIITKOTA.AC.IN",
         "phone": " ",
         "website": "",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Keen interest in Web Development. Hence exploring the field as a beginner.",
