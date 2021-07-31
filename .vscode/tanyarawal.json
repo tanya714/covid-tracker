@@ -2,9 +2,9 @@
     "basics": {
         "name": "Tanya Rawal",
         "label": "Student",
-        "picture": "",
-        "email": "2020kucp1051@iiitkota.ac.in",
-        "phone": " ",
+        "picture": "---Enter Image URL----",
+        "email": "2020kucp1051@iiitkota.ac.in ",
+        "phone": "",
         "website": "",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Keen interest in Web Development. Hence exploring the field as a beginner.",
         "location": {
@@ -14,8 +14,7 @@
             "countryCode": " India",
             "region": "Uttar Pradesh"
         },
-        "profiles": [
-            {
+        "profiles": [{
                 "network": "Twitter",
                 "username": "TanyaRawal5",
                 "url": "https://mobile.twitter.com/TanyaRawal5"
@@ -37,36 +36,57 @@
             }
         ]
     },
-    "education": [
-        {
-            "institution": "Indian Institute of Information Technology,Kota",
-            "area": "Engineering",
-            "studyType": "Bachelor (hons)",
-            "gpa": "8.45",
-            "courses": [
-                "Computer Science & Engineering"
-            ]
-        }
-    ],
-    "skills": [
-        {
-            "level": "Beginner",
-            "keywords": [
-                "HTML",
-                "CSS",
-                "jquery",
-                "C/C++",
-            ]
-        }
-    ],
-    "languages": [
-        {
-            "language": "English",
-            "fluency": "Native speaker"
-        }
-    ],
-    "interests": [
-        {
+    "work": [{
+        "company": "",
+        "position": "",
+        "website": "",
+        "startDate": "",
+        "endDate": " ",
+        "summary": "",
+        "highlights": []
+    }],
+    "volunteer": [{
+        "organization": "",
+        "position": "",
+        "website": "",
+        "startDate": "",
+        "endDate": "",
+        "summary": "",
+        "highlights": []
+    }],
+    "education": [{
+        "institution": "Indian Institute of Information Technology,Kota",
+        "area": "Engineering",
+        "studyType": "Bachelor (hons)",
+        "gpa": "8.45",
+        "courses": [
+            "Computer Science & Engineering"
+        ]
+    }],
+    "awards": [{
+        "title": "",
+        "awarder": "",
+        "date": ""
+    }],
+    "publications": [{
+        "title": "",
+        "details": "",
+        "link": ""
+    }],
+    "skills": [{
+        "level": "Beginner",
+        "keywords": [
+            "HTML",
+            "CSS",
+            "jquery",
+            "C/C++"
+        ]
+    }],
+    "languages": [{
+        "language": "English",
+        "fluency": "Native speaker"
+    }],
+    "interests": [{
             "name": "Dancing",
             "keywords": [
                 "Western"
@@ -83,4 +103,3 @@
     ],
     "references": []
 }
-{"mode":"full","isActive":false}
