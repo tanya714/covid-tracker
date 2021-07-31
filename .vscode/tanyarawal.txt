@@ -2,9 +2,15 @@
     "basics": {
         "name": "Tanya Rawal",
         "label": "Student",
+<<<<<<< HEAD
         "picture": "---Enter Image URL----",
         "email": "2020kucp1051@iiitkota.ac.in ",
         "phone": "",
+=======
+        "picture": "https://avatars.githubusercontent.com/tanya714",
+        "email": "2020kucp1051@iiitkota.ac.in",
+        "phone": " ",
+>>>>>>> 959b33f4a4892c0566fc0cd09de0b173b118ea1b
         "website": "",
         "summary": "I'm a student of Indian Institute of Information technology,Kota (India), persuing my B.tech in Computer Science & engineering. Keen interest in Web Development. Hence exploring the field as a beginner.",
         "location": {
